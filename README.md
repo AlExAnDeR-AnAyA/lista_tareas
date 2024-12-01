@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Task Manager (Gestor de Tareas)
 
 Descripción
@@ -87,4 +88,5 @@ tecnólogo que estamos realizando en Análisis y Desarrollo de Software en el SE
 El  proyecto se realizo en base a información consultada de la red y documentación.
 
  
+
 
