@@ -84,7 +84,7 @@ Ver tareas: Las tareas se listarán en la página principal con su estado de com
 
 6. Nota:
 El proyecto no se alcanzó a terminar por falta de conocimientos en Laravel y sus diferentes aplicaciones ya que en le
-tecnólogo que estamos realizando en Análisis y Desarrollo de Software en el SENA, solo vimos conocimientos Básicos de HTML, JavaScript.
+tecnólogo que estamos realizando en Análisis y Desarrollo de Software en el SENA, solo vimos conocimientos Básicos de HTML, JavaScript, CSS.
 El  proyecto se realizo en base a información consultada de la red y documentación.
 
  
